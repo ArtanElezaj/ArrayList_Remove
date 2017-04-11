@@ -9,7 +9,7 @@ wordsWithoutList({"a", "bb", "b", "ccc"}, 4) → {"a", "bb", "b", "ccc"}
  */
 
 
-package nyc.c4q.nesada;
+package nyc.c4q.artan;
 
 import  java.util.ArrayList;
 import java.util.Arrays;
